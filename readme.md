@@ -1,5 +1,8 @@
 # Project Iris
 
-# intorduction to git commands , git add, git status, and git commit -m "message"
 
-# created a new branch with .git checkout -b name_of_branch
+Create Codes to be attached to text in different files. to Allow referenceing of the text information to be done through searching its internal database.
+
+currently working with .txt files
+Eventually to be done using .PDF Files more commonly used in reaserch. 
+
