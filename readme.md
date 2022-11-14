@@ -1,5 +1,7 @@
 # Project Iris
 
-# intorduction to git commands , git add, git status, and git commit -m "message"
 
-# created a new branch with .git checkout -b name_of_branch
+intorduction to git commands  with tim, .git add, .git status, and .git commit -m "message"
+
+.git checkout master .git push -u origin master .git pull origin master
+

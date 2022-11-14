@@ -4,8 +4,10 @@ import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+
 
 
 import javax.swing.JButton;
@@ -30,6 +32,7 @@ public class DisplayActiveReference extends JPanel implements ActionListener{
 	JTextArea decArea;
 	JScrollPane scrollPane;
 	
+
 	JPanel refDataPanel;
 	JPanel RefPan;
 	JPanel North_Panel;
