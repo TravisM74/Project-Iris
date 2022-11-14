@@ -11,6 +11,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -32,7 +34,7 @@ public class DisplayActiveReference extends JPanel implements ActionListener{
 	
 	JTextArea decArea;
 	JScrollPane scrollPane;
-	
+
 	JPanel refDataPanel;
 	JPanel RefPan;
 	JPanel North_Panel;
