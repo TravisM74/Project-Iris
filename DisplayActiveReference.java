@@ -4,11 +4,9 @@ import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
-import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.lang.reflect.Array;
-import java.util.ArrayList;
+
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -31,8 +29,6 @@ public class DisplayActiveReference extends JPanel implements ActionListener{
 	
 	JTextArea decArea;
 	JScrollPane scrollPane;
-	
-	JFrame midframe;
 	
 	JPanel refDataPanel;
 	JPanel RefPan;
