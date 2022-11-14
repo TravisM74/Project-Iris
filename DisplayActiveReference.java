@@ -4,18 +4,13 @@ import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
-<<<<<<< HEAD
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-=======
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
->>>>>>> fb0841f4219ef36db11d4eb40be73bd1a34c6acf
-
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -38,11 +33,6 @@ public class DisplayActiveReference extends JPanel implements ActionListener{
 	JTextArea decArea;
 	JScrollPane scrollPane;
 	
-<<<<<<< HEAD
-=======
-	JFrame midframe;
-	
->>>>>>> fb0841f4219ef36db11d4eb40be73bd1a34c6acf
 	JPanel refDataPanel;
 	JPanel RefPan;
 	JPanel North_Panel;
